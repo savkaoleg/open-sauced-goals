@@ -1,8 +1,8 @@
 [
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 39641,
-    "open_issues_count": 599,
+    "stargazers_count": 39689,
+    "open_issues_count": 593,
     "forks_count": 1826
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "WICG/shared-element-transitions",
-    "stargazers_count": 507,
+    "stargazers_count": 509,
     "open_issues_count": 85,
     "forks_count": 23
   },
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "mike-north/full-stack-ts",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 21,
     "forks_count": 33
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "welldone-software/why-did-you-render",
-    "stargazers_count": 8780,
+    "stargazers_count": 8784,
     "open_issues_count": 19,
     "forks_count": 151
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "minimaxir/big-list-of-naughty-strings",
-    "stargazers_count": 42542,
+    "stargazers_count": 42544,
     "open_issues_count": 87,
-    "forks_count": 2031
+    "forks_count": 2033
   },
   {
     "full_name": "oxygenhq/oxygen",
@@ -111,11 +111,11 @@
     "full_name": "davidmerfield/randomColor",
     "stargazers_count": 5840,
     "open_issues_count": 19,
-    "forks_count": 419
+    "forks_count": 418
   },
   {
     "full_name": "americanexpress/jest-image-snapshot",
-    "stargazers_count": 3358,
+    "stargazers_count": 3359,
     "open_issues_count": 22,
     "forks_count": 197
   },
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 34431,
+    "stargazers_count": 34441,
     "open_issues_count": 18,
     "forks_count": 5087
   },
   {
     "full_name": "adam-golab/react-developer-roadmap",
-    "stargazers_count": 17164,
+    "stargazers_count": 17165,
     "open_issues_count": 36,
     "forks_count": 1883
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "chenglou/react-motion",
-    "stargazers_count": 20978,
+    "stargazers_count": 20980,
     "open_issues_count": 188,
-    "forks_count": 1179
+    "forks_count": 1180
   },
   {
     "full_name": "z4o4z/es6-store",
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 48943,
+    "stargazers_count": 48950,
     "open_issues_count": 136,
-    "forks_count": 6001
+    "forks_count": 6000
   },
   {
     "full_name": "xgrommx/awesome-redux",
-    "stargazers_count": 11971,
+    "stargazers_count": 11972,
     "open_issues_count": 33,
     "forks_count": 1039
   }
