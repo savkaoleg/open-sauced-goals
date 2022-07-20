@@ -13,9 +13,9 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 40165,
-    "open_issues_count": 585,
-    "forks_count": 1873
+    "stargazers_count": 40198,
+    "open_issues_count": 592,
+    "forks_count": 1877
   },
   {
     "full_name": "Drag13/react-learning-course-short",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "WICG/shared-element-transitions",
-    "stargazers_count": 527,
+    "stargazers_count": 526,
     "open_issues_count": 86,
     "forks_count": 23
   },
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "welldone-software/why-did-you-render",
-    "stargazers_count": 8848,
+    "stargazers_count": 8855,
     "open_issues_count": 18,
     "forks_count": 156
   },
   {
     "full_name": "GoogleChromeLabs/react-adaptive-hooks",
-    "stargazers_count": 4807,
+    "stargazers_count": 4808,
     "open_issues_count": 27,
     "forks_count": 114
   },
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "minimaxir/big-list-of-naughty-strings",
-    "stargazers_count": 42612,
+    "stargazers_count": 42618,
     "open_issues_count": 87,
-    "forks_count": 2036
+    "forks_count": 2039
   },
   {
     "full_name": "oxygenhq/oxygen",
     "stargazers_count": 40,
-    "open_issues_count": 39,
-    "forks_count": 10
+    "open_issues_count": 35,
+    "forks_count": 11
   },
   {
     "full_name": "oxygenhq/cloudbeat-cli",
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "davidmerfield/randomColor",
-    "stargazers_count": 5845,
+    "stargazers_count": 5844,
     "open_issues_count": 19,
     "forks_count": 419
   },
   {
     "full_name": "americanexpress/jest-image-snapshot",
-    "stargazers_count": 3389,
+    "stargazers_count": 3393,
     "open_issues_count": 22,
     "forks_count": 197
   },
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 34604,
+    "stargazers_count": 34611,
     "open_issues_count": 17,
-    "forks_count": 5107
+    "forks_count": 5105
   },
   {
     "full_name": "adam-golab/react-developer-roadmap",
-    "stargazers_count": 17237,
+    "stargazers_count": 17239,
     "open_issues_count": 36,
     "forks_count": 1895
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "chenglou/react-motion",
-    "stargazers_count": 21017,
+    "stargazers_count": 21019,
     "open_issues_count": 188,
-    "forks_count": 1181
+    "forks_count": 1182
   },
   {
     "full_name": "z4o4z/es6-store",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "Hashnode/mern-starter",
-    "stargazers_count": 5156,
+    "stargazers_count": 5157,
     "open_issues_count": 56,
     "forks_count": 1227
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 49522,
+    "stargazers_count": 49563,
     "open_issues_count": 137,
-    "forks_count": 6081
+    "forks_count": 6085
   }
 ]
