@@ -7,15 +7,15 @@
   },
   {
     "full_name": "jaredpalmer/razzle",
-    "stargazers_count": 10823,
+    "stargazers_count": 10825,
     "open_issues_count": 114,
     "forks_count": 920
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 40280,
-    "open_issues_count": 596,
-    "forks_count": 1881
+    "stargazers_count": 40394,
+    "open_issues_count": 590,
+    "forks_count": 1885
   },
   {
     "full_name": "Drag13/react-learning-course-short",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "WICG/shared-element-transitions",
-    "stargazers_count": 527,
+    "stargazers_count": 532,
     "open_issues_count": 84,
     "forks_count": 23
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "mike-north/full-stack-ts",
-    "stargazers_count": 33,
+    "stargazers_count": 35,
     "open_issues_count": 21,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "rebornix/debugger.html",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "welldone-software/why-did-you-render",
-    "stargazers_count": 8869,
-    "open_issues_count": 18,
-    "forks_count": 155
+    "stargazers_count": 8892,
+    "open_issues_count": 19,
+    "forks_count": 156
   },
   {
     "full_name": "GoogleChromeLabs/react-adaptive-hooks",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "smeijer/unimported",
-    "stargazers_count": 1441,
+    "stargazers_count": 1442,
     "open_issues_count": 15,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "oxygenhq/oxygen-ide",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "microsoft/vscode-chrome-debug",
-    "stargazers_count": 2155,
+    "stargazers_count": 2158,
     "open_issues_count": 8,
     "forks_count": 368
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "minimaxir/big-list-of-naughty-strings",
-    "stargazers_count": 42629,
+    "stargazers_count": 42649,
     "open_issues_count": 87,
-    "forks_count": 2040
+    "forks_count": 2042
   },
   {
     "full_name": "oxygenhq/oxygen",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "davidmerfield/randomColor",
-    "stargazers_count": 5843,
+    "stargazers_count": 5844,
     "open_issues_count": 19,
-    "forks_count": 419
+    "forks_count": 418
   },
   {
     "full_name": "americanexpress/jest-image-snapshot",
-    "stargazers_count": 3397,
-    "open_issues_count": 22,
-    "forks_count": 197
+    "stargazers_count": 3399,
+    "open_issues_count": 23,
+    "forks_count": 198
   },
   {
     "full_name": "CarlosGines/react-redux-template",
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 34626,
+    "stargazers_count": 34649,
     "open_issues_count": 17,
-    "forks_count": 5106
+    "forks_count": 5111
   },
   {
     "full_name": "adam-golab/react-developer-roadmap",
-    "stargazers_count": 17244,
+    "stargazers_count": 17249,
     "open_issues_count": 35,
     "forks_count": 1899
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "chenglou/react-motion",
-    "stargazers_count": 21026,
+    "stargazers_count": 21034,
     "open_issues_count": 188,
-    "forks_count": 1182
+    "forks_count": 1181
   },
   {
     "full_name": "z4o4z/es6-store",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 49616,
-    "open_issues_count": 137,
-    "forks_count": 6093
+    "stargazers_count": 49706,
+    "open_issues_count": 138,
+    "forks_count": 6100
   }
 ]
