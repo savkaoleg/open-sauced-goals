@@ -7,9 +7,9 @@
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 17933,
-    "open_issues_count": 16,
-    "forks_count": 722
+    "stargazers_count": 17999,
+    "open_issues_count": 15,
+    "forks_count": 721
   },
   {
     "full_name": "webdriverio/recorder-extension",
@@ -19,31 +19,31 @@
   },
   {
     "full_name": "ngneat/falso",
-    "stargazers_count": 2714,
+    "stargazers_count": 2720,
     "open_issues_count": 13,
     "forks_count": 102
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 13767,
-    "open_issues_count": 392,
-    "forks_count": 1279
+    "stargazers_count": 13770,
+    "open_issues_count": 393,
+    "forks_count": 1281
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 31377,
+    "stargazers_count": 31443,
     "open_issues_count": 28,
-    "forks_count": 1940
+    "forks_count": 1947
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 24189,
-    "open_issues_count": 25,
-    "forks_count": 723
+    "stargazers_count": 24302,
+    "open_issues_count": 18,
+    "forks_count": 732
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 11099,
+    "stargazers_count": 11137,
     "open_issues_count": 20,
     "forks_count": 326
   },
@@ -67,25 +67,25 @@
   },
   {
     "full_name": "jaredpalmer/razzle",
-    "stargazers_count": 10929,
+    "stargazers_count": 10935,
     "open_issues_count": 120,
-    "forks_count": 924
+    "forks_count": 925
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 45133,
-    "open_issues_count": 676,
-    "forks_count": 2196
+    "stargazers_count": 45244,
+    "open_issues_count": 681,
+    "forks_count": 2202
   },
   {
     "full_name": "Drag13/react-learning-course-short",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "WICG/view-transitions",
-    "stargazers_count": 679,
+    "stargazers_count": 680,
     "open_issues_count": 43,
     "forks_count": 31
   },
@@ -99,7 +99,7 @@
     "full_name": "mike-north/full-stack-ts",
     "stargazers_count": 47,
     "open_issues_count": 22,
-    "forks_count": 62
+    "forks_count": 64
   },
   {
     "full_name": "rebornix/debugger.html",
@@ -109,32 +109,32 @@
   },
   {
     "full_name": "stateful/tangle",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 7,
     "forks_count": 0
   },
   {
     "full_name": "welldone-software/why-did-you-render",
-    "stargazers_count": 9467,
-    "open_issues_count": 27,
+    "stargazers_count": 9478,
+    "open_issues_count": 28,
     "forks_count": 169
   },
   {
     "full_name": "GoogleChromeLabs/react-adaptive-hooks",
-    "stargazers_count": 4878,
-    "open_issues_count": 29,
+    "stargazers_count": 4879,
+    "open_issues_count": 30,
     "forks_count": 114
   },
   {
     "full_name": "smeijer/unimported",
-    "stargazers_count": 1556,
+    "stargazers_count": 1558,
     "open_issues_count": 21,
     "forks_count": 52
   },
   {
     "full_name": "oxygenhq/oxygen-ide",
     "stargazers_count": 14,
-    "open_issues_count": 46,
+    "open_issues_count": 47,
     "forks_count": 7
   },
   {
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "microsoft/vscode-chrome-debug",
-    "stargazers_count": 2184,
-    "open_issues_count": 8,
+    "stargazers_count": 2183,
+    "open_issues_count": 9,
     "forks_count": 374
   },
   {
@@ -163,14 +163,14 @@
   },
   {
     "full_name": "minimaxir/big-list-of-naughty-strings",
-    "stargazers_count": 44213,
+    "stargazers_count": 44221,
     "open_issues_count": 94,
-    "forks_count": 2106
+    "forks_count": 2105
   },
   {
     "full_name": "oxygenhq/oxygen",
     "stargazers_count": 40,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "forks_count": 12
   },
   {
