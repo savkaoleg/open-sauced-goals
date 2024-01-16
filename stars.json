@@ -7,9 +7,9 @@
   },
   {
     "full_name": "Danziger/slotjs",
-    "stargazers_count": 198,
+    "stargazers_count": 200,
     "open_issues_count": 2,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "johakr/html5-slot-machine",
@@ -19,32 +19,32 @@
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 20682,
-    "open_issues_count": 361,
-    "forks_count": 2606
+    "stargazers_count": 20762,
+    "open_issues_count": 372,
+    "forks_count": 2611
   },
   {
     "full_name": "clinicjs/node-clinic",
-    "stargazers_count": 5479,
+    "stargazers_count": 5481,
     "open_issues_count": 95,
     "forks_count": 137
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 50620,
-    "open_issues_count": 322,
-    "forks_count": 7777
+    "stargazers_count": 50706,
+    "open_issues_count": 330,
+    "forks_count": 7787
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 30888,
-    "open_issues_count": 116,
-    "forks_count": 1114
+    "stargazers_count": 30982,
+    "open_issues_count": 113,
+    "forks_count": 1118
   },
   {
     "full_name": "asteasolutions/zod-to-openapi",
-    "stargazers_count": 546,
-    "open_issues_count": 9,
+    "stargazers_count": 547,
+    "open_issues_count": 8,
     "forks_count": 43
   },
   {
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 23251,
+    "stargazers_count": 23289,
     "open_issues_count": 12,
-    "forks_count": 975
+    "forks_count": 977
   },
   {
     "full_name": "webdriverio/recorder-extension",
@@ -73,33 +73,33 @@
   },
   {
     "full_name": "ngneat/falso",
-    "stargazers_count": 3040,
+    "stargazers_count": 3041,
     "open_issues_count": 14,
     "forks_count": 112
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 14553,
-    "open_issues_count": 439,
-    "forks_count": 1379
+    "stargazers_count": 14557,
+    "open_issues_count": 440,
+    "forks_count": 1383
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 37876,
-    "open_issues_count": 57,
-    "forks_count": 2542
+    "stargazers_count": 37951,
+    "open_issues_count": 46,
+    "forks_count": 2545
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 38809,
+    "stargazers_count": 38959,
     "open_issues_count": 5,
-    "forks_count": 1220
+    "forks_count": 1222
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 16182,
-    "open_issues_count": 10,
-    "forks_count": 516
+    "stargazers_count": 16235,
+    "open_issues_count": 7,
+    "forks_count": 518
   },
   {
     "full_name": "savkaoleg/react-form-sample",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "jaredpalmer/razzle",
-    "stargazers_count": 11096,
-    "open_issues_count": 133,
+    "stargazers_count": 11095,
+    "open_issues_count": 132,
     "forks_count": 964
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 58065,
-    "open_issues_count": 684,
-    "forks_count": 3242
+    "stargazers_count": 58179,
+    "open_issues_count": 682,
+    "forks_count": 3250
   },
   {
     "full_name": "Drag13/react-learning-course-short",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "WICG/view-transitions",
-    "stargazers_count": 774,
-    "open_issues_count": 28,
-    "forks_count": 46
+    "stargazers_count": 775,
+    "open_issues_count": 29,
+    "forks_count": 47
   },
   {
     "full_name": "nxtexe/react-motion-router",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "mike-north/full-stack-ts",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 22,
     "forks_count": 98
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "welldone-software/why-did-you-render",
-    "stargazers_count": 10526,
+    "stargazers_count": 10531,
     "open_issues_count": 33,
     "forks_count": 188
   },
   {
     "full_name": "GoogleChromeLabs/react-adaptive-hooks",
-    "stargazers_count": 5061,
+    "stargazers_count": 5062,
     "open_issues_count": 41,
     "forks_count": 118
   }
