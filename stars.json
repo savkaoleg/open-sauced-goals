@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "piranha/twinspark-js",
+    "stargazers_count": 400,
+    "open_issues_count": 2,
+    "forks_count": 16
+  },
+  {
     "full_name": "maslianok/react-resize-detector",
-    "stargazers_count": 1198,
+    "stargazers_count": 1200,
     "open_issues_count": 3,
     "forks_count": 91
   },
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "johakr/html5-slot-machine",
-    "stargazers_count": 371,
+    "stargazers_count": 373,
     "open_issues_count": 1,
     "forks_count": 242
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 21036,
-    "open_issues_count": 295,
-    "forks_count": 2676
+    "stargazers_count": 21086,
+    "open_issues_count": 300,
+    "forks_count": 2687
   },
   {
     "full_name": "clinicjs/node-clinic",
@@ -37,20 +43,20 @@
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 51052,
-    "open_issues_count": 323,
-    "forks_count": 7855
+    "stargazers_count": 51122,
+    "open_issues_count": 327,
+    "forks_count": 7865
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 31381,
-    "open_issues_count": 104,
-    "forks_count": 1144
+    "stargazers_count": 31470,
+    "open_issues_count": 108,
+    "forks_count": 1150
   },
   {
     "full_name": "asteasolutions/zod-to-openapi",
-    "stargazers_count": 572,
-    "open_issues_count": 8,
+    "stargazers_count": 578,
+    "open_issues_count": 9,
     "forks_count": 45
   },
   {
@@ -67,45 +73,45 @@
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 23468,
-    "open_issues_count": 24,
-    "forks_count": 985
+    "stargazers_count": 23524,
+    "open_issues_count": 20,
+    "forks_count": 994
   },
   {
     "full_name": "webdriverio/recorder-extension",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "ngneat/falso",
-    "stargazers_count": 3057,
+    "stargazers_count": 3058,
     "open_issues_count": 14,
     "forks_count": 112
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 14592,
-    "open_issues_count": 441,
-    "forks_count": 1390
+    "stargazers_count": 14601,
+    "open_issues_count": 438,
+    "forks_count": 1391
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 38265,
-    "open_issues_count": 52,
-    "forks_count": 2562
+    "stargazers_count": 38327,
+    "open_issues_count": 61,
+    "forks_count": 2564
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 39688,
+    "stargazers_count": 39825,
     "open_issues_count": 4,
-    "forks_count": 1243
+    "forks_count": 1248
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 16477,
-    "open_issues_count": 3,
-    "forks_count": 528
+    "stargazers_count": 16508,
+    "open_issues_count": 5,
+    "forks_count": 530
   },
   {
     "full_name": "savkaoleg/react-form-sample",
@@ -129,17 +135,17 @@
     "full_name": "jaredpalmer/razzle",
     "stargazers_count": 11092,
     "open_issues_count": 133,
-    "forks_count": 964
+    "forks_count": 965
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 58849,
-    "open_issues_count": 707,
-    "forks_count": 3296
+    "stargazers_count": 59168,
+    "open_issues_count": 691,
+    "forks_count": 3314
   },
   {
     "full_name": "Drag13/react-learning-course-short",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 0,
     "forks_count": 19
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 52,
     "open_issues_count": 10,
     "forks_count": 1
-  },
-  {
-    "full_name": "welldone-software/why-did-you-render",
-    "stargazers_count": 10584,
-    "open_issues_count": 35,
-    "forks_count": 187
   }
 ]
