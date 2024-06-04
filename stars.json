@@ -1,9 +1,9 @@
 [
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 59812,
+    "stargazers_count": 60080,
     "open_issues_count": 1242,
-    "forks_count": 3318
+    "forks_count": 3335
   },
   {
     "full_name": "kelvinmwinuka/cognito-next",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "piranha/twinspark-js",
-    "stargazers_count": 404,
-    "open_issues_count": 2,
+    "stargazers_count": 410,
+    "open_issues_count": 3,
     "forks_count": 18
   },
   {
     "full_name": "maslianok/react-resize-detector",
-    "stargazers_count": 1215,
+    "stargazers_count": 1218,
     "open_issues_count": 0,
     "forks_count": 91
   },
@@ -31,49 +31,49 @@
   },
   {
     "full_name": "Danziger/slotjs",
-    "stargazers_count": 228,
+    "stargazers_count": 229,
     "open_issues_count": 3,
     "forks_count": 88
   },
   {
     "full_name": "johakr/html5-slot-machine",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 6,
     "forks_count": 224
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 22678,
-    "open_issues_count": 372,
-    "forks_count": 3022
+    "stargazers_count": 22738,
+    "open_issues_count": 368,
+    "forks_count": 3042
   },
   {
     "full_name": "clinicjs/node-clinic",
-    "stargazers_count": 5580,
+    "stargazers_count": 5583,
     "open_issues_count": 100,
     "forks_count": 123
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 53464,
-    "open_issues_count": 321,
-    "forks_count": 8017
+    "stargazers_count": 53512,
+    "open_issues_count": 319,
+    "forks_count": 8022
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 33098,
-    "open_issues_count": 122,
-    "forks_count": 1175
+    "stargazers_count": 33163,
+    "open_issues_count": 124,
+    "forks_count": 1178
   },
   {
     "full_name": "asteasolutions/zod-to-openapi",
-    "stargazers_count": 749,
+    "stargazers_count": 755,
     "open_issues_count": 10,
     "forks_count": 51
   },
   {
     "full_name": "lukemorales/exhaustive",
-    "stargazers_count": 335,
+    "stargazers_count": 336,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 24691,
-    "open_issues_count": 21,
-    "forks_count": 1026
+    "stargazers_count": 24731,
+    "open_issues_count": 18,
+    "forks_count": 1025
   },
   {
     "full_name": "webdriverio/recorder-extension",
@@ -97,33 +97,33 @@
   },
   {
     "full_name": "ngneat/falso",
-    "stargazers_count": 3140,
+    "stargazers_count": 3143,
     "open_issues_count": 15,
     "forks_count": 113
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 14785,
-    "open_issues_count": 435,
+    "stargazers_count": 14794,
+    "open_issues_count": 438,
     "forks_count": 1261
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 40287,
-    "open_issues_count": 79,
+    "stargazers_count": 40330,
+    "open_issues_count": 76,
     "forks_count": 2702
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 43519,
-    "open_issues_count": 7,
-    "forks_count": 1329
+    "stargazers_count": 43608,
+    "open_issues_count": 9,
+    "forks_count": 1333
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 17557,
-    "open_issues_count": 8,
-    "forks_count": 562
+    "stargazers_count": 17578,
+    "open_issues_count": 5,
+    "forks_count": 564
   },
   {
     "full_name": "savkaoleg/react-form-sample",
@@ -145,19 +145,19 @@
   },
   {
     "full_name": "jaredpalmer/razzle",
-    "stargazers_count": 11094,
-    "open_issues_count": 136,
-    "forks_count": 875
+    "stargazers_count": 11093,
+    "open_issues_count": 137,
+    "forks_count": 874
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 62649,
-    "open_issues_count": 675,
-    "forks_count": 3381
+    "stargazers_count": 62773,
+    "open_issues_count": 676,
+    "forks_count": 3388
   },
   {
     "full_name": "Drag13/react-learning-course-short",
-    "stargazers_count": 143,
+    "stargazers_count": 142,
     "open_issues_count": 0,
     "forks_count": 19
   },
