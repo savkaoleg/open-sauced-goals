@@ -1,9 +1,9 @@
 [
   {
     "full_name": "scalar/scalar",
-    "stargazers_count": 7414,
-    "open_issues_count": 174,
-    "forks_count": 235
+    "stargazers_count": 7488,
+    "open_issues_count": 172,
+    "forks_count": 238
   },
   {
     "full_name": "trurl-master/jsdom-testing-mocks",
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "nodejs/build",
-    "stargazers_count": 506,
-    "open_issues_count": 109,
+    "stargazers_count": 505,
+    "open_issues_count": 108,
     "forks_count": 166
   },
   {
     "full_name": "libuv/libuv",
-    "stargazers_count": 24335,
-    "open_issues_count": 194,
-    "forks_count": 3604
+    "stargazers_count": 24357,
+    "open_issues_count": 193,
+    "forks_count": 3605
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 29156,
-    "open_issues_count": 27138,
-    "forks_count": 12028
+    "stargazers_count": 29214,
+    "open_issues_count": 27179,
+    "forks_count": 12060
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 74791,
-    "open_issues_count": 1282,
-    "forks_count": 4649
+    "stargazers_count": 75045,
+    "open_issues_count": 1301,
+    "forks_count": 4681
   },
   {
     "full_name": "kelvinmwinuka/cognito-next",
@@ -44,12 +44,12 @@
   {
     "full_name": "piranha/twinspark-js",
     "stargazers_count": 421,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 20
   },
   {
     "full_name": "maslianok/react-resize-detector",
-    "stargazers_count": 1256,
+    "stargazers_count": 1257,
     "open_issues_count": 0,
     "forks_count": 91
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "Danziger/slotjs",
-    "stargazers_count": 271,
+    "stargazers_count": 272,
     "open_issues_count": 4,
-    "forks_count": 94
+    "forks_count": 93
   },
   {
     "full_name": "johakr/html5-slot-machine",
@@ -73,32 +73,32 @@
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 24960,
-    "open_issues_count": 382,
-    "forks_count": 3521
+    "stargazers_count": 24991,
+    "open_issues_count": 390,
+    "forks_count": 3531
   },
   {
     "full_name": "clinicjs/node-clinic",
-    "stargazers_count": 5684,
+    "stargazers_count": 5686,
     "open_issues_count": 103,
     "forks_count": 125
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 56769,
-    "open_issues_count": 335,
-    "forks_count": 8546
+    "stargazers_count": 56824,
+    "open_issues_count": 336,
+    "forks_count": 8550
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 35021,
-    "open_issues_count": 121,
-    "forks_count": 1256
+    "stargazers_count": 35064,
+    "open_issues_count": 125,
+    "forks_count": 1258
   },
   {
     "full_name": "asteasolutions/zod-to-openapi",
-    "stargazers_count": 976,
-    "open_issues_count": 19,
+    "stargazers_count": 986,
+    "open_issues_count": 20,
     "forks_count": 60
   },
   {
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 26201,
-    "open_issues_count": 82,
-    "forks_count": 1086
+    "stargazers_count": 26226,
+    "open_issues_count": 87,
+    "forks_count": 1085
   },
   {
     "full_name": "webdriverio/recorder-extension",
@@ -127,33 +127,33 @@
   },
   {
     "full_name": "ngneat/falso",
-    "stargazers_count": 3217,
+    "stargazers_count": 3219,
     "open_issues_count": 16,
     "forks_count": 120
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 15063,
-    "open_issues_count": 456,
+    "stargazers_count": 15068,
+    "open_issues_count": 464,
     "forks_count": 1285
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 42532,
-    "open_issues_count": 84,
-    "forks_count": 2910
+    "stargazers_count": 42598,
+    "open_issues_count": 89,
+    "forks_count": 2919
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 48032,
+    "stargazers_count": 48114,
     "open_issues_count": 4,
-    "forks_count": 1486
+    "forks_count": 1493
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 18744,
-    "open_issues_count": 9,
-    "forks_count": 617
+    "stargazers_count": 18762,
+    "open_issues_count": 8,
+    "forks_count": 621
   },
   {
     "full_name": "savkaoleg/react-form-sample",
