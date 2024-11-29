@@ -1,39 +1,39 @@
 [
   {
     "full_name": "scalar/scalar",
-    "stargazers_count": 7556,
-    "open_issues_count": 180,
-    "forks_count": 238
+    "stargazers_count": 7623,
+    "open_issues_count": 184,
+    "forks_count": 239
   },
   {
     "full_name": "trurl-master/jsdom-testing-mocks",
     "stargazers_count": 116,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "nodejs/build",
     "stargazers_count": 506,
-    "open_issues_count": 109,
+    "open_issues_count": 111,
     "forks_count": 167
   },
   {
     "full_name": "libuv/libuv",
-    "stargazers_count": 24383,
-    "open_issues_count": 189,
-    "forks_count": 3606
+    "stargazers_count": 24403,
+    "open_issues_count": 187,
+    "forks_count": 3609
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 29276,
-    "open_issues_count": 27242,
-    "forks_count": 12099
+    "stargazers_count": 29335,
+    "open_issues_count": 27250,
+    "forks_count": 12132
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 75321,
-    "open_issues_count": 1315,
-    "forks_count": 4720
+    "stargazers_count": 75551,
+    "open_issues_count": 1328,
+    "forks_count": 4741
   },
   {
     "full_name": "kelvinmwinuka/cognito-next",
@@ -44,7 +44,7 @@
   {
     "full_name": "piranha/twinspark-js",
     "stargazers_count": 422,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 20
   },
   {
@@ -63,43 +63,43 @@
     "full_name": "Danziger/slotjs",
     "stargazers_count": 273,
     "open_issues_count": 4,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "johakr/html5-slot-machine",
-    "stargazers_count": 475,
+    "stargazers_count": 476,
     "open_issues_count": 5,
     "forks_count": 240
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 25031,
-    "open_issues_count": 396,
-    "forks_count": 3536
+    "stargazers_count": 25067,
+    "open_issues_count": 399,
+    "forks_count": 3542
   },
   {
     "full_name": "clinicjs/node-clinic",
-    "stargazers_count": 5688,
+    "stargazers_count": 5692,
     "open_issues_count": 103,
     "forks_count": 125
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 56889,
-    "open_issues_count": 338,
-    "forks_count": 8560
+    "stargazers_count": 56926,
+    "open_issues_count": 336,
+    "forks_count": 8566
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 35088,
+    "stargazers_count": 35117,
     "open_issues_count": 127,
     "forks_count": 1258
   },
   {
     "full_name": "asteasolutions/zod-to-openapi",
-    "stargazers_count": 992,
-    "open_issues_count": 23,
-    "forks_count": 60
+    "stargazers_count": 997,
+    "open_issues_count": 24,
+    "forks_count": 61
   },
   {
     "full_name": "lukemorales/exhaustive",
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 26249,
-    "open_issues_count": 89,
+    "stargazers_count": 26276,
+    "open_issues_count": 90,
     "forks_count": 1085
   },
   {
@@ -133,25 +133,25 @@
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 15073,
-    "open_issues_count": 466,
+    "stargazers_count": 15078,
+    "open_issues_count": 463,
     "forks_count": 1287
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 42653,
-    "open_issues_count": 88,
-    "forks_count": 2922
+    "stargazers_count": 42705,
+    "open_issues_count": 93,
+    "forks_count": 2924
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 48192,
+    "stargazers_count": 48277,
     "open_issues_count": 4,
-    "forks_count": 1494
+    "forks_count": 1498
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 18789,
+    "stargazers_count": 18841,
     "open_issues_count": 6,
     "forks_count": 622
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "jaredpalmer/razzle",
-    "stargazers_count": 11105,
+    "stargazers_count": 11106,
     "open_issues_count": 137,
     "forks_count": 867
   }
