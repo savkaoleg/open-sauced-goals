@@ -1,39 +1,45 @@
 [
   {
+    "full_name": "hipstersmoothie/storybook-dark-mode",
+    "stargazers_count": 456,
+    "open_issues_count": 55,
+    "forks_count": 58
+  },
+  {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 37848,
-    "open_issues_count": 178,
-    "forks_count": 1738
+    "stargazers_count": 38257,
+    "open_issues_count": 183,
+    "forks_count": 1764
   },
   {
     "full_name": "deepseek-ai/DeepSeek-R1",
-    "stargazers_count": 77032,
-    "open_issues_count": 285,
-    "forks_count": 9983
+    "stargazers_count": 79047,
+    "open_issues_count": 269,
+    "forks_count": 10226
   },
   {
     "full_name": "deepseek-ai/DeepSeek-V3",
-    "stargazers_count": 85560,
-    "open_issues_count": 135,
-    "forks_count": 13769
+    "stargazers_count": 86843,
+    "open_issues_count": 122,
+    "forks_count": 13997
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 44403,
-    "open_issues_count": 31360,
-    "forks_count": 4837
+    "stargazers_count": 44424,
+    "open_issues_count": 31375,
+    "forks_count": 4835
   },
   {
     "full_name": "poloclub/transformer-explainer",
-    "stargazers_count": 3937,
+    "stargazers_count": 3962,
     "open_issues_count": 7,
-    "forks_count": 373
+    "forks_count": 375
   },
   {
     "full_name": "scalar/scalar",
-    "stargazers_count": 8937,
-    "open_issues_count": 212,
-    "forks_count": 293
+    "stargazers_count": 8978,
+    "open_issues_count": 208,
+    "forks_count": 295
   },
   {
     "full_name": "trurl-master/jsdom-testing-mocks",
@@ -49,21 +55,21 @@
   },
   {
     "full_name": "libuv/libuv",
-    "stargazers_count": 24814,
-    "open_issues_count": 182,
+    "stargazers_count": 24833,
+    "open_issues_count": 184,
     "forks_count": 3648
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 30932,
-    "open_issues_count": 28575,
-    "forks_count": 12700
+    "stargazers_count": 30993,
+    "open_issues_count": 28643,
+    "forks_count": 12737
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 81035,
-    "open_issues_count": 1648,
-    "forks_count": 5297
+    "stargazers_count": 81295,
+    "open_issues_count": 1660,
+    "forks_count": 5333
   },
   {
     "full_name": "kelvinmwinuka/cognito-next",
@@ -91,43 +97,43 @@
   },
   {
     "full_name": "Danziger/slotjs",
-    "stargazers_count": 282,
+    "stargazers_count": 283,
     "open_issues_count": 4,
     "forks_count": 97
   },
   {
     "full_name": "johakr/html5-slot-machine",
-    "stargazers_count": 493,
+    "stargazers_count": 494,
     "open_issues_count": 1,
     "forks_count": 245
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 25970,
-    "open_issues_count": 398,
-    "forks_count": 3708
+    "stargazers_count": 26012,
+    "open_issues_count": 406,
+    "forks_count": 3716
   },
   {
     "full_name": "clinicjs/node-clinic",
-    "stargazers_count": 5755,
+    "stargazers_count": 5759,
     "open_issues_count": 104,
-    "forks_count": 126
+    "forks_count": 125
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 58352,
-    "open_issues_count": 345,
-    "forks_count": 8804
+    "stargazers_count": 58414,
+    "open_issues_count": 344,
+    "forks_count": 8802
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 36027,
-    "open_issues_count": 130,
-    "forks_count": 1301
+    "stargazers_count": 36077,
+    "open_issues_count": 136,
+    "forks_count": 1307
   },
   {
     "full_name": "asteasolutions/zod-to-openapi",
-    "stargazers_count": 1100,
+    "stargazers_count": 1105,
     "open_issues_count": 20,
     "forks_count": 69
   },
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 26786,
-    "open_issues_count": 107,
-    "forks_count": 1102
+    "stargazers_count": 26808,
+    "open_issues_count": 110,
+    "forks_count": 1103
   },
   {
     "full_name": "webdriverio/recorder-extension",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "ngneat/falso",
-    "stargazers_count": 3245,
+    "stargazers_count": 3246,
     "open_issues_count": 15,
-    "forks_count": 122
+    "forks_count": 123
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 15180,
-    "open_issues_count": 462,
-    "forks_count": 1304
+    "stargazers_count": 15183,
+    "open_issues_count": 457,
+    "forks_count": 1305
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 43812,
-    "open_issues_count": 87,
-    "forks_count": 3019
-  },
-  {
-    "full_name": "pmndrs/zustand",
-    "stargazers_count": 50257,
-    "open_issues_count": 7,
-    "forks_count": 1584
+    "stargazers_count": 43873,
+    "open_issues_count": 89,
+    "forks_count": 3024
   }
 ]
